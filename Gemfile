@@ -1,5 +1,5 @@
 # A sample Gemfile
 source "https://rubygems.org"
 
-gem 'jekyll'
-gem 'jekyll-assets'
+gem 'jekyll', '>= 3.1.3'
+gem 'jekyll-assets', '>= 2.2.0'
